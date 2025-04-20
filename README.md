@@ -19,4 +19,4 @@ A restaurant reservation website built using the MERN stack (MongoDB, Express.js
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/restaurant-reservation.git
+   [git clone https://github.com/your-username/restaurant-reservation.git](https://github.com/vikas8561/restaurantReservation.git)
