@@ -14,6 +14,7 @@ app.use(
     origin: [
       process.env.FRONTEND_URL,
       "https://restaurant-reservation-32qj.vercel.app",
+      "https://restaurant-reservation-5ky4.vercel.app",
       "http://localhost:5173",
       "http://localhost:3000"
     ],
